@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tkodevops from Tokyo, Japan
+- 👀 I’m interested in it support, devops,  and coding languages
+- 🌱 I’m currently learning coding languages, powershell, 
+- 💞️ I’m looking to collaborate on lifestyle / scheduling apps in the future
+- 📫 How to reach me tko.lng.jpn@gmail.com
